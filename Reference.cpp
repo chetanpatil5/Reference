@@ -49,11 +49,14 @@ int main()
 	}
 	cout << endl;
 
+	//Pointer to a reference-Address of eference not available
+	//So we cannot create pointer to reference
+	//int *ptr=&reff
+	//array of reference
+	//Similar to above
 
-
-
-
-
+	//reference to a reference
+	//Similar to above
 
 	return 0;
 }
